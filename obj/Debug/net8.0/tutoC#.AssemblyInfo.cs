@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tutoC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37cc650ca0df38a0b5b31270ac9b69bb8e240f0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("tutoC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tutoC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

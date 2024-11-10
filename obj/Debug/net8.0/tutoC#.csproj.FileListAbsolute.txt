@@ -28,3 +28,4 @@ C:\Users\Jackers\Desktop\tutoC#\obj\Debug\net8.0\refint\tutoC#.dll
 C:\Users\Jackers\Desktop\tutoC#\obj\Debug\net8.0\tutoC#.pdb
 C:\Users\Jackers\Desktop\tutoC#\obj\Debug\net8.0\tutoC#.genruntimeconfig.cache
 C:\Users\Jackers\Desktop\tutoC#\obj\Debug\net8.0\ref\tutoC#.dll
+C:\Users\Jackers\Desktop\tutoC#\obj\Debug\net8.0\tutoC#.sourcelink.json
