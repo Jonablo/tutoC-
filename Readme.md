@@ -48,7 +48,7 @@ If you prefer to use the pre-built Docker image, follow these steps:
 2. Run the image:
 
     ```bash
-    docker run -p 8080:80 jonablo/tutoc-app
+    docker run -p 8080:8080 jonablo/tutoc-app
     ```
 
 3. Access the application at `http://localhost:8080`.
