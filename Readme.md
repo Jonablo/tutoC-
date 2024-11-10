@@ -2,9 +2,9 @@
 
 This project is a simple application developed with ASP.NET Core, which displays a "Hello World" message in the browser.
 
-<p align="center">
-  ![Screenshot of the application showing the "Hello World" message in the browser]{049F6D5C-1F32-4135-B19B-18EAAE6DA536}.png
-</p>
+<div align="center">
+    <img src="{049F6D5C-1F32-4135-B19B-18EAAE6DA536}.png" alt="Hello World in the browser">
+</div>
 
 ## System Requirements
 
