@@ -1,58 +1,58 @@
-# TutoC-: Aplicación ASP.NET Core
+# TutoC-: ASP.NET Core Application
 
-Este proyecto consiste en una aplicación sencilla desarrollada con ASP.NET Core, que muestra un mensaje de "Hello World" en el navegador.
+This project is a simple application developed with ASP.NET Core, which displays a "Hello World" message in the browser.
 
 <p align="center">
-  ![Captura de pantalla de la aplicación mostrando el mensaje "Hello World" en el navegador](049F6D5C-1F32-4135-B19B-18EAAE6DA536.png)
+  ![Screenshot of the application showing the "Hello World" message in the browser]{049F6D5C-1F32-4135-B19B-18EAAE6DA536}.png
 </p>
 
-## Requisitos del sistema
+## System Requirements
 
-- .NET SDK 8.0 o superior.
-- Docker (opcional, para despliegue en contenedores).
+- .NET SDK 8.0 or higher.
+- Docker (optional, for container deployment).
 
-## Guía de instalación y uso
+## Installation and Usage Guide
 
-### Instalación local
+### Local Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
 
     ```bash
     git clone https://github.com/Jonablo/tutoC-
     ```
 
-2. Accede al directorio del proyecto:
+2. Navigate to the project directory:
 
     ```bash
     cd tutoC-
     ```
 
-3. Ejecuta la aplicación:
+3. Run the application:
 
     ```bash
     dotnet run
     ```
 
-4. Accede a la aplicación a través de `http://localhost:8080` en tu navegador.
+4. Access the application at `http://localhost:8080` in your browser.
 
-### Uso con Docker
+### Using Docker
 
-Si prefieres usar la imagen de Docker ya disponible, sigue estos pasos:
+If you prefer to use the pre-built Docker image, follow these steps:
 
-1. Descarga la imagen desde Docker Hub:
+1. Pull the image from Docker Hub:
 
     ```bash
     docker pull jonablo/tutoc-app
     ```
 
-2. Ejecuta la imagen:
+2. Run the image:
 
     ```bash
     docker run -p 8080:80 jonablo/tutoc-app
     ```
 
-3. Accede a la aplicación en `http://localhost:8080`.
+3. Access the application at `http://localhost:8080`.
 
-## Licencia
+## License
 
-Este proyecto está licenciado bajo la licencia MIT.
+This project is licensed under the MIT License.
